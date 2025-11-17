@@ -56,4 +56,4 @@ Only ~2.2% of transactions are fraudulent, requiring specialized techniques to h
 
 
 
-
+dataset link: https://www.kaggle.com/datasets/umuttuygurr/e-commerce-fraud-detection-dataset
